@@ -1,18 +1,4 @@
-﻿input.type =  ;
-input.nickname =  ;
-input.text =  ;
-input.price = =  ;
-input.uid =  ;
-input.anchor_id =  ;
-input.event_time =  ;
-input.event_send_time =  ;
-input.gift =  ;
-input.avatar =  ;
-input.md5 =  ;
-
-
-
-using UnityEngine;
+﻿using UnityEngine;
 using static UnityEngine.Mathf;
 
 public static class FunctionLibrary
